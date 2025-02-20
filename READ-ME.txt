@@ -1,6 +1,6 @@
-  =>  Template Name    : Terapia - Physical Therapy Website Template
+  =>  Template Name    : LiveActive - Physiotherapy Therapy Website Template
 
-  =>  Template Link    : https://htmlcodex.com/physical-therapy-website-template
+  =>  Template Link    : https://htmlcodex.com/Physiotherapy-therapy-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
@@ -18,4 +18,4 @@ https://elhambasir.github.io/modern-landing-page/
 
 https://vinhphuphan.github.io/Hospital-Landing-Page/#specialists
 
-https://htmlcodex.com/physical-therapy-website-template/
+https://htmlcodex.com/Physiotherapy-therapy-website-template/
